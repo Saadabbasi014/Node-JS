@@ -1,0 +1,4 @@
+{
+    "db": "mongodb+srv://abbasidev:abbasidev333@abbasicluster.furcq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwt": "privatekey"
+}
